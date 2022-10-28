@@ -1,14 +1,17 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
 <h3 align="left">A full-stack developer 👨‍💻</h3>
-<p align="left">I work at Quick Supply 🔭 a Nigerian based building materials company, where I lead the backend team into developing industry standard application capable of handling millions of users using Django. i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, Django , Flask, and SQL.
+<p align="left">A full-stack developer 👨‍💻
+I work at Quick Supply 🔭 a Nigerian-based building materials company, where I lead the backend team in developing industry-standard applications capable of handling millions of users using Django. I focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, Django, Flask, and SQL.
 
-👨‍ Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked with a team of 3 :two_men_holding_hands: developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
+👨‍ Prior to Quick Supply, I was a python back-end developer at E-Arewa, An ICT firm for digitizing products and services where I worked with a team of 3 👬 developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms.
 
 💬 I am dedicated to being a valuable member of any team I am part of, I believe in the team rising together, and that we can accomplish anything if we work together.
 
 📝 I love helping students learn about programming and tech. I spend my free time tutoring junior developers and volunteering at local events.
 
-⚡ I am currently open to roles that combine my skill for developing websites, data analysis and cloud development.</p>
+⚡ I am currently open to roles that combine my skill for developing websites, data analysis, and cloud development.
+
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
