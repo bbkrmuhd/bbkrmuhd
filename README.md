@@ -1,39 +1,15 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
-<h3 align="left">A full-stack developer</h3>
-<p align="left">I work at Quick Supply a Nigeria based building materials company, where i led the backend team into developing ……. . i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, 
+<h3 align="left">A full-stack developer 👨‍💻</h3>.
+<p align="left">I work at Quick Supply 🔭 a Nigeria based building materials company, where i led the backend team into developing ……. . i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, 
   , Django , Flask, and SQL.
 
-Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked With a team of 3 developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
+👨‍ Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked With a team of 3 :two_men_holding_hands: developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
 
-I am dedicated to being a valuable member of any team I am part of, I believe in the team rising together, and that we can accomplish anything if we work together.
+💬 I am dedicated to being a valuable member of any team I am part of, I believe in the team rising together, and that we can accomplish anything if we work together.
 
-I love helping students learn about programming and tech. I spend my free time tutoring future developers and volunteering at local events.
+📝 I love helping students learn about programming and tech. I spend my free time tutoring future developers and volunteering at local events.
 
-I am currently open to roles that combine my skill for developing websites, data analysis and cloud development.</p>
-
-<p align="left"> <a href="https://twitter.com/sadiqcodes" target="blank"><img src="https://img.shields.io/twitter/follow/sadiqcodes?logo=twitter&style=for-the-badge" alt="sadiqcodes" /></a> </p>
-
-- 🔭 I’m currently working on **My Blog**
-
-- 👯 I’m looking to collaborate on **something interesting**
-
-- 👨‍💻 All of my projects are available at [https://personal-blog-frontend-seven.vercel.app/](https://personal-blog-frontend-seven.vercel.app/)
-
-- 📝 I regularly write articles on [https://personal-blog-frontend-seven.vercel.app/](https://personal-blog-frontend-seven.vercel.app/)
-
-- 💬 Ask me about **javascript and python**
-
-- 📫 How to reach me **bbkrmuhdsaddiq@gmail.com**
-
-- 📄 Know about my experiences [https://personal-blog-frontend-seven.vercel.app/](https://personal-blog-frontend-seven.vercel.app/)
-
-- ⚡ Fun fact **i thin im funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sadiqcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadiqcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abubakar-muhammad-sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakar-muhammad-sadiq" height="30" width="40" /></a>
-</p>
+⚡ I am currently open to roles that combine my skill for developing websites, data analysis and cloud development.</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,7 +19,7 @@ I am currently open to roles that combine my skill for developing websites, data
  <td>
       <p align="center">
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <p align="center">JavaScript</p>
+        <p align="center" >JavaScript</p>
       </p>
     </td>
     <td>           
@@ -117,9 +93,9 @@ I am currently open to roles that combine my skill for developing websites, data
       </p>
     </td>
             <td>           
-      <p align="center">
+      <p align="left">
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-        <p align="center">Graphql</p>
+        <p align="right">Graphql</p>
       </p>
     </td>
             <td>           
@@ -214,4 +190,17 @@ I am currently open to roles that combine my skill for developing websites, data
     </td>
   </tr>
   </table>
-<p align=left><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbkrmuhd&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" /></p>
+  
+<p align=left>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbkrmuhd&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" />
+</p>
+
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<a href="mailto:bbkrmuhdsaddiq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bbkrmuhdsaddiq@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[![Linkedin: Abubakar](https://img.shields.io/badge/-Abubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abubakar-muhammad-sadiq/)](https://www.linkedin.com/in/abubakar-muhammad-sadiq/)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sadiqcodes?label=twitter&style=social">
