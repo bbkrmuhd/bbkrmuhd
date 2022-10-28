@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
-<h3 align="left">A full-stack developer 👨‍💻</h3>.
-<p align="left">I work at Quick Supply 🔭 a Nigeria based building materials company, where i led the backend team into developing ……. . i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, 
+<h3 align="left">A full-stack developer 👨‍💻</h3>
+<p align="left">I work at Quick Supply 🔭 a Nigeria based building materials company, where i led the backend team into developing industry standard application capable of handling millions of users. i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, 
   , Django , Flask, and SQL.
 
 👨‍ Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked With a team of 3 :two_men_holding_hands: developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
