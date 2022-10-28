@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
 <h3 align="left">A full-stack developer 👨‍💻</h3>
-<p align="left">I work at Quick Supply 🔭 a Nigeria based building materials company, where i led the backend team into developing industry standard application capable of handling millions of users. i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, 
-  , Django , Flask, and SQL.
+<p align="left">I work at Quick Supply 🔭 a Nigerian based building materials company, where I lead the backend team into developing industry standard application capable of handling millions of users using Django. i focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, Django , Flask, and SQL.
 
-👨‍ Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked With a team of 3 :two_men_holding_hands: developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
+👨‍ Prior to Quick Supply I was a python back-end developer at E-Arewa, An ICT firm for digitising product and services where I worked with a team of 3 :two_men_holding_hands: developers writing software for over 10 clients and maintained systems for 15 different clients using python and Linux platforms. 
 
 💬 I am dedicated to being a valuable member of any team I am part of, I believe in the team rising together, and that we can accomplish anything if we work together.
 
-📝 I love helping students learn about programming and tech. I spend my free time tutoring future developers and volunteering at local events.
+📝 I love helping students learn about programming and tech. I spend my free time tutoring junior developers and volunteering at local events.
 
 ⚡ I am currently open to roles that combine my skill for developing websites, data analysis and cloud development.</p>
 
@@ -203,4 +202,4 @@
 
 <a href="mailto:bbkrmuhdsaddiq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bbkrmuhdsaddiq@gmail.com-blue?style=flat-square&logo=gmail"></a>
 [![Linkedin: Abubakar](https://img.shields.io/badge/-Abubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abubakar-muhammad-sadiq/)](https://www.linkedin.com/in/abubakar-muhammad-sadiq/)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sadiqcodes?label=twitter&style=social">
+[![Twitter: Abubakar](https://img.shields.io/twitter/follow/sadiqcodes?label=twitter&style=social&link)](https://mobile.twitter.com/sadiqcodes)
