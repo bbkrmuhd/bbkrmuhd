@@ -192,10 +192,12 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
   </tr>
   </table>
   
-<p align=left>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbkrmuhd&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" />
-</p>
+<table>
+  <tr>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbkrmuhd&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;</td>
+<td>  <img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" /></td>
+  </tr>
+</table>
 
 
 
