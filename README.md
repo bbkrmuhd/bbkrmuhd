@@ -14,7 +14,10 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-#### 💻 &nbsp; Programming Languages
+<table>
+  <tr>
+    <td>
+   <h4>💻 &nbsp; Programming Languages</h4>
 <table>
   <tr>
  <td>
@@ -48,13 +51,11 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
         <p align="center">CSS</p>
       </p>
     </td>
-
   </tr>
-  
   </table>
-  
-  #### 🌐 &nbsp; Technologies
-  
+    </td>
+    <td>
+  <h4> 🌐 &nbsp; Technologies</h4>
   <table>
   <tr>
  <td>
@@ -99,18 +100,14 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
         <p align="right">Graphql</p>
       </p>
     </td>
-            <td>           
-      <p align="center">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        <p align="center">SASS</p>
-      </p>
-    </td>
   </tr>
   </table>
+  </td>
+  </tr>
   
-  
-  
-#### 🛢 &nbsp; Databases
+  <tr>
+  <td>  
+    <h4> 🛢 &nbsp; Databases</h4>
 <table>
   <tr>
  <td>
@@ -145,13 +142,10 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
     </td>
 
   </tr>
-  
   </table>
-  
-  
-  
-  #### ⚙️ &nbsp; Tools
-  
+  </td>
+  <td>
+  <h4> ⚙️ &nbsp; Tools</h4>
   <table>
   <tr>
  <td>
@@ -191,6 +185,9 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
     </td>
   </tr>
   </table>
+</td>
+  </tr>
+ </table>
   
 <table>
   <tr>
@@ -198,6 +195,7 @@ I work at Quick Supply 🔭 a Nigerian-based building materials company, where I
 <td>  <img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" /></td>
   </tr>
 </table>
+ 
 
 
 
