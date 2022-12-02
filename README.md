@@ -2,7 +2,7 @@
 <p align="left">
 👨‍💻 I'm a full-stack web developer at QuickSupply, a Nigerian-based building materials company. For the past three years, I've focused on building reliable, scalable, and maintainable applications based on system requirements, from the development process to cloud deployment.
 
-🔭 Prior to QuickSupply, I worked as a python back-end developer at eArewa, an ICT firm that digitizes products and services, where I built and maintained client systems.
+🔭 Prior to QuickSupply, I worked as a python back-end developer at eArewa, an ICT firm that digitizes products and services, where I built and maintained systems for clients.
 
  ⚡ I am currently looking for roles that combine my skills in full-stack application development and cloud development.
 </p>
