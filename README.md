@@ -1,15 +1,10 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
-<h3 align="left">A full-stack developer 👨‍💻</h3>
 <p align="left">
-I work at Quick Supply 🔭 a Nigerian-based building materials company, where I lead the backend team in developing industry-standard applications capable of handling millions of users using Django. I focused on writing clean and secure code based on system requirements using several different technologies including HTML, CSS, JavaScript, React, Django, Flask, and SQL.
+👨‍💻 I'm a full-stack web developer at QuickSupply, a Nigerian-based building materials company. For the past three years, I've focused on building reliable, scalable, and maintainable applications based on system requirements, from the development process to cloud deployment.
 
-👨‍ Prior to Quick Supply, I was a python back-end developer at E-Arewa, An ICT firm for digitizing products and services where I worked with a team of many 👬 developers writing software for over 10 clients and maintained systems for 15 different clients using Python, CI/CD, AWS services, and Linux platforms.
+🔭 Prior to QuickSupply, I worked as a python back-end developer at eArewa, an ICT firm that digitizes products and services, where I built and maintained client systems.
 
-💬 I am dedicated to being a valuable member of any team I am part of, I believe in the team rising together, and that we can accomplish anything if we work together.
-
-📝 I enjoy mentoring interns to learn more about programming and tech. I spend my free time volunteering at local events.
-
-⚡ I am currently open to roles that combine my skills for developing full-stack applications, data science, and cloud development.
+ ⚡ I am currently looking for roles that combine my skills in full-stack application development and cloud development.
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
