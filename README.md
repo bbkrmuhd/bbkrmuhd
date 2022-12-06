@@ -188,8 +188,8 @@
   
 <table>
   <tr>
- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbkrmuhd&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;</td>
-<td>  <img src="https://github-readme-stats.vercel.app/api?username=bbkrmuhd&show_icons=true&locale=en" alt="bbkrmuhd" /></td>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiq-codes&show_icons=true&locale=en&layout=compact" alt="bbkrmuhd" />&nbsp;</td>
+<td>  <img src="https://github-readme-stats.vercel.app/api?username=sadiq-codes&show_icons=true&locale=en" alt="bbkrmuhd" /></td>
   </tr>
 </table>
  
