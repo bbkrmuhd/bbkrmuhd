@@ -1,12 +1,16 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
-<p align="left">
+
 - 👀 Interested in AI, NLP, and ML.  
-- 🌱 Learning advanced deep learning techniques.  
-- 💞️ Open to collaborations on AI projects and open-source tools.  
-- 📫 Reach me via email or social media (insert details).  
+ 
+- 🌱 Learning advanced deep learning techniques.
+
+- 💞️ Open to collaborations on AI projects and open-source tools.
+
+- 📫 Reach me via email or social media (insert details).
+
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love exploring AI ethics and training models for fun!
-</p>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
