@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm Abubakar Muhammad Sadiq</h1>
 <p align="left">
-👨‍💻 I'm a full-stack web developer at QuickSupply, a Nigerian-based building materials company. For the past three years, I've focused on building reliable, scalable, and maintainable applications based on system requirements, from the development process to cloud deployment.
-
-🔭 Prior to QuickSupply, I worked as a python back-end developer at eArewa, an ICT firm that digitizes products and services, where I built and maintained systems for clients.
- 
-💬 I am committed to contributing significantly to any team I am a part of. I believe in the team's ability to succeed as a whole and that, when we work together, we are capable of achieving anything.
-
- ⚡ I am currently looking for roles that combine my skills in full-stack application development and cloud development.
+- 👀 Interested in AI, NLP, and ML.  
+- 🌱 Learning advanced deep learning techniques.  
+- 💞️ Open to collaborations on AI projects and open-source tools.  
+- 📫 Reach me via email or social media (insert details).  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love exploring AI ethics and training models for fun!
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
