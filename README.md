@@ -6,9 +6,10 @@
 
 - 💞️ Open to collaborations on AI projects and open-source tools.
 
-- 📫 Reach me via email or social media (insert details).
+- 📫 Reach me via email at (bbkrmuhdsaddiq@gmail.com).
 
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: He/Him
+  
 - ⚡ Fun fact: I love exploring AI ethics and training models for fun!
 
 
